@@ -9,4 +9,5 @@ small program done in python to calculate the code of the call of duty black obs
 ![image](https://github.com/user-attachments/assets/40212b8c-b707-4a52-8b71-1af9fd98025e)
 
 
+<img width="107" alt="image" src="https://github.com/user-attachments/assets/c530e17b-a466-4f09-b3ee-a2c443f0ea78">
 
